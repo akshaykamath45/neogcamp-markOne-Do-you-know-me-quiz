@@ -11,7 +11,9 @@
 - Display the final score to the user.
 
 ## Sample Screenshots :
-![image](https://user-images.githubusercontent.com/73344382/210005082-9cf86212-3274-4b6c-a659-0df8963f8491.png)
+![image](https://user-images.githubusercontent.com/73344382/210005808-fa6d40e3-5493-433e-9d46-edd844538bce.png)
+![image](https://user-images.githubusercontent.com/73344382/210005836-9ffa3ee2-8331-477c-96e0-2ad58e034d58.png)
+
 
 [Working Link](https://replit.com/@AkshayKamath4/markOne?embed=1&output=1)
 
