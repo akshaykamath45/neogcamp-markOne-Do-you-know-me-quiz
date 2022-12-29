@@ -59,6 +59,13 @@ var questions = [{
   c:Badminton
   `,
   answer: "a"
+},{
+  question: `Which dish do I like the most ? :
+  a:Pasta
+  b:Pizza,
+  c:Burger
+  `,
+  answer: "a"
 }];
 
 for (var i = 0; i < questions.length; i++) {
